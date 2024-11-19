@@ -43,7 +43,7 @@ const Page = () => {
           style={[homeStyles.glassmorphismContainer, animatedHeaderStyle]}
         >
           <Image
-            source={require("@/assets/icons/thumb2.png")}
+            source={require("../assets/icons/thumb3.jpg")}
             style={homeStyles.glassmorphismBackground}
           />
         </Animated.View>

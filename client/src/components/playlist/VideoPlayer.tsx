@@ -36,7 +36,7 @@ const VideoPlayer: FC<{ item: Anime }> = ({ item }) => {
         //ios
         // source={{ uri: item?.stream_url }}
         // Android
-        source={{ uri: "http://192.168.205.225:8080/output.m3u8" }}
+        source={{ uri: "http://192.168.114.181:8080/output.m3u8" }}
       />
       {!isLoaded && (
         <Image
