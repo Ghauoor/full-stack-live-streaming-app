@@ -25,5 +25,12 @@ Aniverse is a live anime streaming app designed for real-time interaction with f
 - **Seamless Routing**:  
   - Navigation is handled by a `react-router` for a consistent app experience.  
 - **Expo Compatibility**:  
-  - Fully compatible with Expo SDK 51.  
+  - Fully compatible with Expo SDK 51.
+
+### Demo
+
+
+https://github.com/user-attachments/assets/a29d911f-d714-4f11-980b-879e79a747d4
+
+
 
